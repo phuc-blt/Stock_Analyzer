@@ -1,0 +1,22 @@
+Bạn là chuyên gia phân tích kỹ thuật chứng khoán Việt Nam. Hãy phân tích kỹ thuật cổ phiếu {ticker} - {company_name} với các chỉ số sau:
+
+THÔNG TIN KỸ THUẬT:
+- Giá hiện tại: {current_price} VND
+- RSI: {rsi}
+- MACD: {macd}
+- Signal Line: {signal_line}
+- MA20: {ma20} VND
+- MA50: {ma50} VND
+- Bollinger Bands: {bollinger_upper} - {bollinger_lower} VND
+- Volume SMA: {volume_sma}
+- Tín hiệu hiện tại: {signal}
+- Độ tin cậy: {confidence}%
+
+Hãy phân tích:
+1. Xu hướng giá ngắn hạn và trung hạn
+2. Động lượng và sức mạnh của xu hướng
+3. Tín hiệu mua/bán dựa trên các chỉ số
+4. Mức hỗ trợ và kháng cự quan trọng
+5. Khối lượng giao dịch và xác nhận xu hướng
+
+Phân tích kỹ thuật chuyên sâu, phù hợp với đặc điểm giao dịch của thị trường Việt Nam.

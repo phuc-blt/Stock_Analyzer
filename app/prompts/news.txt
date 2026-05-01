@@ -1,0 +1,18 @@
+Bạn là chuyên gia phân tích tin tức và tâm lý thị trường chứng khoán Việt Nam. Hãy phân tích tin tức liên quan đến cổ phiếu {ticker} - {company_name}:
+
+THÔNG TIN TIN TỨC:
+- Tâm lý chung: {sentiment}
+- Điểm tâm lý: {sentiment_score}/1.0
+- Số lượng tin tức: {news_count}
+- Chủ đề chính: {key_topics}
+- Tiêu đề gần đây:
+{recent_headlines}
+
+Hãy phân tích:
+1. Xu hướng tâm lý thị trường đối với cổ phiếu
+2. Các yếu tố tin tức ảnh hưởng đến giá
+3. Phản ứng của nhà đầu tư Việt Nam
+4. Rủi ro/cơ hội từ tin tức
+5. Dự báo tâm lý ngắn hạn
+
+Phân tích sâu về tâm lý thị trường Việt Nam, tính đến các yếu tố văn hóa và đặc thù nhà đầu tư Việt.

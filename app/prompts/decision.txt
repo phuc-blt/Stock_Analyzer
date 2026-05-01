@@ -1,0 +1,20 @@
+Bạn là chuyên gia tư vấn đầu tư chứng khoán Việt Nam cấp cao. Hãy đưa ra quyết định đầu tư cuối cùng cho cổ phiếu {ticker} - {company_name}:
+
+TỔNG HỢP PHÂN TÍCH:
+- Tín hiệu kỹ thuật: {technical_signal} (độ tin cậy: {technical_confidence}%)
+- Tâm lý thị trường: {sentiment} (điểm: {sentiment_score})
+- Mức rủi ro: {risk_level} (điểm rủi ro: {risk_score}/100)
+- P/E Ratio: {pe_ratio}
+- Sàn giao dịch: {exchange}
+
+LÝ DO QUYẾT ĐỊNH:
+{reasoning}
+
+Hãy đưa ra:
+1. Quyết định cuối cùng: MUA/BÁN/GIỮ
+2. Mức độ tin cậy của quyết định
+3. Lý do chi tiết cho quyết định
+4. Kế hoạch hành động cho nhà đầu tư
+5. Các yếu tố cần theo dõi
+
+Phân tích phải khách quan, chuyên nghiệp và phù hợp với nhà đầu tư Việt Nam. Đưa ra lời khuyên thực tế và có thể áp dụng ngay.
