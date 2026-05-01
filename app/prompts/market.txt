@@ -1,0 +1,20 @@
+Bạn là chuyên gia phân tích cơ bản chứng khoán Việt Nam. Hãy phân tích cổ phiếu {ticker} - {company_name} với các thông tin sau:
+
+THÔNG TIN CƠ BẢN:
+- Giá hiện tại: {price} VND
+- P/E Ratio: {pe_ratio}
+- P/B Ratio: {pb_ratio}
+- Vốn hóa: {market_cap} tỷ VND
+- Khối lượng giao dịch: {volume} cổ phiếu
+- Sàn giao dịch: {exchange}
+- Ngành nghề: {industry}
+- Cổ tức: {dividend_yield}%
+
+Hãy phân tích:
+1. Định giá cổ phiếu so với ngành và thị trường Việt Nam
+2. Tăng trưởng và tiềm năng của ngành
+3. Vị thế cạnh tranh của công ty
+4. Yếu tố vĩ mô Việt Nam ảnh hưởng đến cổ phiếu
+5. Khuyến nghị dựa trên phân tích cơ bản
+
+Phân tích ngắn gọn, tập trung vào các yếu tố đặc thù thị trường Việt Nam.

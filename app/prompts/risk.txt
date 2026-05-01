@@ -1,0 +1,18 @@
+Bạn là chuyên gia quản trị rủi ro chứng khoán Việt Nam. Hãy đánh giá rủi ro cho cổ phiếu {ticker} - {company_name} trên sàn {exchange}:
+
+THÔNG TIN RỦI RO:
+- Beta: {beta}
+- Biến động giá: {volatility:.2%}
+- Tỷ lệ khối lượng: {volume_ratio:.2f}
+- P/E Ratio: {pe_ratio}
+- Điểm rủi ro tổng hợp: {risk_score}/100
+- Mức rủi ro: {risk}
+
+Hãy phân tích:
+1. Rủi ro thị trường và hệ thống tại Việt Nam
+2. Rủi ro đặc thù của công ty và ngành
+3. Rủi ro thanh khoản và biến động
+4. Yếu tố vĩ mô Việt Nam ảnh hưởng
+5. Khuyến nghị quản trị rủi ro
+
+Phân tích rủi ro toàn diện, tính đến bối cảnh kinh tế - chính trị đặc thù của Việt Nam.
