@@ -5,7 +5,7 @@ from app.services.market_data import fetch_vietnam_stock_data
 
 class MarketAgent(BaseAgent):
     def __init__(self):
-        super().__init__("c:/Users/nguye/Downloads/Stock_Analyzer/app/prompts/market.txt", LLMRouter())
+        super().__init__("app/prompts/market.txt", LLMRouter())
     
     def __call__(self, state):
         data = fetch_vietnam_stock_data(state["ticker"])

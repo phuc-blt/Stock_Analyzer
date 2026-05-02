@@ -4,7 +4,7 @@ from app.services.llm import LLMRouter
 
 class PlannerAgent(BaseAgent):
     def __init__(self):
-        super().__init__("c:/Users/nguye/Downloads/Stock_Analyzer/app/prompts/planner.txt", LLMRouter())
+        super().__init__("app/prompts/planner.txt", LLMRouter())
     
     def __call__(self, state):
         state["tasks"] = [

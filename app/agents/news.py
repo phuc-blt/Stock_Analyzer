@@ -5,7 +5,7 @@ from app.services.news_sentiment import analyze_vietnam_stock_news
 
 class NewsAgent(BaseAgent):
     def __init__(self):
-        super().__init__("c:/Users/nguye/Downloads/Stock_Analyzer/app/prompts/news.txt", LLMRouter())
+        super().__init__("app/prompts/news.txt", LLMRouter())
     
     def __call__(self, state):
         news_data = analyze_vietnam_stock_news(state["ticker"])

@@ -42,6 +42,7 @@ class LLMRouter:
         
         # Try common vLLM models
         models_to_try = [
+            "qwen3.5:0.8b",  # Available local model - fastest
             "gemma4:e2b",  # Available local model
             "llama3:8b",
             "qwen:7b",
@@ -64,6 +65,7 @@ class LLMRouter:
     def get_ollama(self):
         # Try common models, prioritize available local model
         models_to_try = [
+            "qwen3.5:0.8b",  # Available local model - fastest
             "gemma4:e2b",  # Available local model
             self.ollama_model,
             "llama3:8b", 

@@ -4,7 +4,7 @@ from app.services.llm import LLMRouter
 
 class DecisionAgent(BaseAgent):
     def __init__(self):
-        super().__init__("c:/Users/nguye/Downloads/Stock_Analyzer/app/prompts/decision.txt", LLMRouter())
+        super().__init__("app/prompts/decision.txt", LLMRouter())
     
     def __call__(self, state):
         market_data = state["market_data"]

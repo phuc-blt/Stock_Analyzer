@@ -5,7 +5,7 @@ from app.services.indicators import calculate_vietnam_indicators
 
 class TechnicalAgent(BaseAgent):
     def __init__(self):
-        super().__init__("c:/Users/nguye/Downloads/Stock_Analyzer/app/prompts/technical.txt", LLMRouter())
+        super().__init__("app/prompts/technical.txt", LLMRouter())
     
     def __call__(self, state):
         indicators = calculate_vietnam_indicators(state["market_data"]["history"])

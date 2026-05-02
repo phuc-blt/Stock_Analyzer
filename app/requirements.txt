@@ -12,15 +12,3 @@ ta
 python-dotenv
 httpx
 vllm
-```txt
-fastapi
-uvicorn
-langgraph
-langchain
-langchain-openai
-pydantic
-yfinance
-pandas
-ta
-python-dotenv
-httpx
